@@ -1,4 +1,5 @@
-def generateMoney():
+"""Money generator module"""
+ef generateMoney():
     """Return money generated"""
     value = input('How much would you like to generate?\n')
     print("Generating $$$...")
